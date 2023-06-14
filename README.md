@@ -95,3 +95,4 @@ Here are some related projects that you may find interesting:
 
 Feel free to explore these projects as well!
 
+![flowchart of maze](https://github.com/koolpedro/Maze-MVP/assets/110994894/b7a28b6c-e114-4d46-9bea-d9064012585a)
