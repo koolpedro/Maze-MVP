@@ -28,6 +28,7 @@ The 2D Maze App is an interactive application that allows users to navigate thro
 Deployed Site: https://github.com/koolpedro/Maze-MVP
 
 Final Project Blog Article: https://www.linkedin.com/pulse/navigating-unknown-2d-maze-peter-anyakorah/
+
 Author(s) LinkedIn: https://www.linkedin.com/in/peter-anyakorah-5484a130/
 
 Installation
