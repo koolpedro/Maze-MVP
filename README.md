@@ -52,10 +52,10 @@ To install and run the maze game from your GitHub repository as a different user
      ```
      cd Maze-MVP
      ```
-     ...
-     cd game
-     ...
      
+     ```
+     cd game
+     ```
 3. Open the Game in a Web Browser:
    - Once you are inside the project directory, you should see the files `index.html`, `styles.css`, and `maze.js`.
    - Double-click on the `index.html` file to open it in your default web browser.
