@@ -52,6 +52,7 @@ To install and run the maze game from your GitHub repository as a different user
      ```
      cd Maze-MVP
      ```
+     ...
      cd game
      ...
      
