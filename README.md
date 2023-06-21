@@ -33,33 +33,36 @@ Author(s) LinkedIn: https://www.linkedin.com/in/peter-anyakorah-5484a130/
 
 Installation
 
-To install and run the 2D Maze App locally, please follow these steps:
+To install and run the Maze game locally, please follow these steps:
 
-1. Clone this repository to your local machine using the following command:
+To install and run the maze game from your GitHub repository as a different user, follow these steps:
 
-```
-git clone https://github.com/koolpedro/Maze-MVP.git
-```
+1. Clone the Repository:
+   - Open a terminal or command prompt.
+   - Navigate to the directory where you want to clone the repository.
+   - Run the following command to clone the repository:
 
-2. Navigate to the project directory:
+     ```
+     git clone https://github.com/koolpedro/Maze-MVP.git
+     ```
 
-```
-cd Maze-MVP
-```
+2. Navigate to the Project Directory:
+   - Change into the directory of the cloned repository:
 
-3. Install the project dependencies:
+     ```
+     cd Maze-MVP
+     ```
+     cd game
+     ...
+     
+3. Open the Game in a Web Browser:
+   - Once you are inside the project directory, you should see the files `index.html`, `styles.css`, and `maze.js`.
+   - Double-click on the `index.html` file to open it in your default web browser.
 
-```
-npm install
-```
+The maze game should now be running in the web browser. You can use the arrow keys to move the player within the maze and explore the 3D rendering based on raycasting.
 
-4. Start the application:
 
-```
-npm start
-```
 
-5. Open your web browser and visit `http://localhost:3000` to access the 2D Maze App.
 
 Usage
 
